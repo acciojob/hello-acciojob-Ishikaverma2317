@@ -1,13 +1,13 @@
-/* Main element styling */
-main.accio#job {
+/* Styling main element with class accio and id job */
+#job.accio {
   width: 150px;
   height: 150px;
-  background-color: #000000; /* Black */
+  background-color: #000000; /* black */
 }
 
-/* Paragraph styling */
+/* Styling paragraph inside */
 .hello-accio {
-  color: #ffffff;       /* White text */
-  margin-left: 32px;    /* Left margin */
-  padding: 10px;        /* Padding on all sides */
+  color: #ffffff;      /* white text */
+  margin-left: 32px;
+  padding: 10px;
 }
